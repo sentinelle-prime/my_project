@@ -1,0 +1,3 @@
+Pour une fois faisons les choses bien 
+Deuxième étape 
+print("hello world\n i'm darkside\n")
